@@ -41,7 +41,7 @@ public class WebTableTestPractise {
 		System.out.println(eleName);
 		if(eleName.equals("JAVA")) {
 			//System.out.println(eleName);
-			System.out.println("******checking element******");
+			//System.out.println("******checking element******");
 			System.out.println("Element is found");
 			break;
 		}
